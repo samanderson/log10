@@ -17,6 +17,9 @@ Things that should be working:
 I implemented it one bonus at a time. I left in the code for the streaming REST API for you to look at. Let me know if you have any questions or have any issues running the code.
 
 Thanks!
+____________________________________
+
+# ORIGINAL PROMPT
 
 ## About the company
 
